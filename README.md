@@ -17,5 +17,5 @@ Si vous voulez modifier la taille de l'image. (min 200x200 ; max 1000x1000)
 *fonction surface
 *les 2 valeurs en paramètre peuvent être modifié
     
-![image type](test.ppm)
+![image type](test.png)
 
